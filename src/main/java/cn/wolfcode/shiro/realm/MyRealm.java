@@ -13,6 +13,7 @@ import org.apache.shiro.subject.PrincipalCollection;
  */
 public class MyRealm extends AuthorizingRealm {
 
+    //nin
     @Override
     public String getName() {
         return "MyRealm";
